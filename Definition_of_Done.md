@@ -1,5 +1,5 @@
-* Tests ok
 * Téléversé sur github
-* Tous les checkboxes ont été checké
+* Tests ok
 * Ça marche en prod
+* Tous les checkboxes ont été checké
 * (trello) carte archivée
